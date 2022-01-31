@@ -9,7 +9,7 @@ body {
 }
 
 .jumbotron{
-	padding: 2rem 1rem ;
+	padding-top: 2rem 1rem ;
 	background-image: url('../img/home.jpg');
 	background-attachment: fixed;
 	background-size: cover;
